@@ -1,1 +1,1 @@
-complete ruby on rails student
+first test repo on complete ruby on rails student by seare zekarias 
